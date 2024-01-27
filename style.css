@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+}
+header a {
+    border: 1px solid blue;
+    text-decoration: none;
+    border-radius: 7px;
+    padding: 3px;
+}
+header {
+    background-color: cornflowerblue;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+footer{
+    background-color: chocolate;
+    padding: 4px;
+}
+footer p{
+    margin: 3px;
+}
+nav{
+    background-color: lightblue;
+    padding: 10px;
+}
+nav a{
+    text-decoration: none;
+    border: rgb(0, 64, 255) 2px solid;
+    border-radius: 5px;
+    padding: 3px;
+    margin: 3px;
+}
+
+.test {
+    background-color: rgb(162, 221, 233);   
+}
+body {
+    padding: 5px;
+}
+h1,h2 {
+    font-size: 25px;
+    color: dodgerblue;
+}
+h1 {
+    color: goldenrod;
+    text-align: center;
+}
+main a{
+    color: slateblue;
+    margin: 5px;
+    padding: 5px;
+    text-decoration: none;
+    border: 1px solid rgb(95, 113, 227);
+    border-radius: 5px;
+}
+p {
+    font-size: 20px;
+}
